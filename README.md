@@ -15,3 +15,5 @@ The week-wise contents will be listed here. The codes for each week will be uplo
 4. [Week04](week04/):
 	* C-style use of structs using non-member functions. Struct member functions.
 	* Defining member functions outside struct. Introduction to constructors.
+5. [Week05](week05/):
+	* this pointer. destructors. copy constructors.
