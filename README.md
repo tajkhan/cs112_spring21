@@ -17,3 +17,6 @@ The week-wise contents will be listed here. The codes for each week will be uplo
 	* Defining member functions outside struct. Introduction to constructors.
 5. [Week05](week05/):
 	* this pointer. destructors. copy constructors.
+6. [Week06](week06/):
+	* Encapsulation. Abstraction. Interface vs Implementation.
+	* Copy constructors repeated.
