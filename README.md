@@ -20,3 +20,5 @@ The week-wise contents will be listed here. The codes for each week will be uplo
 6. [Week06](week06/):
 	* Encapsulation. Abstraction. Interface vs Implementation.
 	* Copy constructors repeated.
+6. [Week07](week07/):
+	* Friend function. Friend classes. Copy constructructor argument revisited.
