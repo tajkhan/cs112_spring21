@@ -50,7 +50,7 @@ int main (){
 	//c3 = add_complex (c1, c2);
 	//c3.show();
 	//c4 = add_complex (c3, add_complex (c1, c2));
-	c4 = c1 + c2 + c3;  // c4 = c1.operator+(c2.operator+(c3));
+	c4 = c1 + c2 + c3;  // c4 = (c1.operator+(c2)).operator+(c3);
 	c4.show();
 
 	return 0;
