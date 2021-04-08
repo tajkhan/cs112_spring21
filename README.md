@@ -22,3 +22,4 @@ The week-wise contents will be listed here. The codes for each week will be uplo
 	* Copy constructors repeated.
 6. [Week07](week07/):
 	* Friend function. Friend classes. Copy constructructor argument revisited.
+	* Operator overloading. Overloading binary operators.
