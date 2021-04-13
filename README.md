@@ -20,6 +20,8 @@ The week-wise contents will be listed here. The codes for each week will be uplo
 6. [Week06](week06/):
 	* Encapsulation. Abstraction. Interface vs Implementation.
 	* Copy constructors repeated.
-6. [Week07](week07/):
+7. [Week07](week07/):
 	* Friend function. Friend classes. Copy constructructor argument revisited.
 	* Operator overloading. Overloading binary operators.
+8. [Week08](week08/):
+	* Operator overloading contd. Pre and Post increment. Array subscript operator. Output stream.
