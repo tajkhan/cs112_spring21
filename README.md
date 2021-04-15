@@ -25,3 +25,4 @@ The week-wise contents will be listed here. The codes for each week will be uplo
 	* Operator overloading. Overloading binary operators.
 8. [Week08](week08/):
 	* Operator overloading contd. Pre and Post increment. Array subscript operator. Output stream.
+	* Operator overloading contd. Array subscript operator repeated. Reference arguments. Const References. Const functions.
