@@ -27,5 +27,6 @@ The week-wise contents will be listed here. The codes for each week will be uplo
 	* Operator overloading contd. Pre and Post increment. Array subscript operator. Output stream.
 	* Operator overloading contd. Array subscript operator repeated. Reference arguments. Const References. Const functions.
 	* Operator overloading contd. Assignment operator (mystring3.cpp).
-8. [Week09](week09/):
+9. [Week09](week09/):
 	* Temporary objects. Rvalues. Move constructor. Move assignment operator (mystring4.cpp).
+	* Initializing member variables vs assigning to them in ctors. Namespaces (rect2.cpp).
