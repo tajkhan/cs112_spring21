@@ -30,3 +30,5 @@ The week-wise contents will be listed here. The codes for each week will be uplo
 9. [Week09](week09/):
 	* Temporary objects. Rvalues. Move constructor. Move assignment operator (mystring4.cpp).
 	* Initializing member variables vs assigning to them in ctors. Namespaces (rect2.cpp).
+10. [Week10](week10/):
+	* Inheritance introduction. Function overriding. Order of ctors, dtors calling.
