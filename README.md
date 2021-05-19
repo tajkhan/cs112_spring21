@@ -32,3 +32,5 @@ The week-wise contents will be listed here. The codes for each week will be uplo
 	* Initializing member variables vs assigning to them in ctors. Namespaces (rect2.cpp).
 10. [Week10](week10/):
 	* Inheritance introduction. Function overriding. Order of ctors, dtors calling.
+11. [Week11](week11/):
+	* Polymorphism. Virtual functions.
