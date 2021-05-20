@@ -33,4 +33,5 @@ The week-wise contents will be listed here. The codes for each week will be uplo
 10. [Week10](week10/):
 	* Inheritance introduction. Function overriding. Order of ctors, dtors calling.
 11. [Week11](week11/):
-	* Polymorphism. Virtual functions.
+	* Polymorphism. Virtual functions. Member fn calling by passing this ptr. vptr and vtables.
+	* Pure virtual functions. Abstract class. Diamond problem. Dividing your code in mutiple files.
