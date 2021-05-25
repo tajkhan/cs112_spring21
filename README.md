@@ -35,3 +35,5 @@ The week-wise contents will be listed here. The codes for each week will be uplo
 11. [Week11](week11/):
 	* Polymorphism. Virtual functions. Member fn calling by passing this ptr. vptr and vtables.
 	* Pure virtual functions. Abstract class. Diamond problem. Dividing your code in mutiple files.
+12. [Week12](week12/):
+	* Dividing a C++ program in multiple files. .hpp and .cpp files.
