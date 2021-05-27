@@ -37,3 +37,4 @@ The week-wise contents will be listed here. The codes for each week will be uplo
 	* Pure virtual functions. Abstract class. Diamond problem. Dividing your code in mutiple files.
 12. [Week12](week12/):
 	* Dividing a C++ program in multiple files. .hpp and .cpp files.
+	* Static members. UML.

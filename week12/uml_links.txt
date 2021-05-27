@@ -1,0 +1,9 @@
+ UMlet: https://www.umlet.com/
+ UMlet online: http://www.umletino.com/umletino.html
+
+ UML Class diagram: 
+ https://medium.com/@smagid_allThings/uml-class-diagrams-tutorial-step-by-step-520fd83b300b
+ https://developer.ibm.com/articles/the-class-diagram/
+
+ See if this PDF helps:
+ https://courses.cs.washington.edu/courses/cse403/11sp/lectures/lecture08-uml1.pdf
