@@ -3,7 +3,7 @@
 The details of the project groups are as follows:
 
 | No. | Title | Members | Channel |	Doc status |
-| --- | ----------- | ----------- | ----------- |
+| --- | ----------- | ----------- | ----------- | ----------- |
 | 1   | Space Invaders | Muhammad F. (2020292)<br>Muhammad Talha (2020366)<br>Saud Ahmed (2020435) | https://www.youtube.com/channel/UCzWjHmN3_iD4x-VrO7YVCrw/featured | Submitted |
 | 2   | Tank Combat | Hamza Siddiqui (2020147)<br>Abdul Wahab (2020019)<br>M. Hamza Malik (2020382) | https://www.youtube.com/channel/UCnM49ZcAZ-VtHHSlaLIwuHQ | Submitted |
 | 3   | Flappy Bird | Asher Khalid (2020091) <br>Syeda Hafsa Anis (2020489) <br>Alishba Javed (2020068) | https://www.youtube.com/channel/UCARGZYmBl9bS3ZiMvhKX0-Q | Submitted |
