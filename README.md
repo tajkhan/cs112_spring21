@@ -38,3 +38,5 @@ The week-wise contents will be listed here. The codes for each week will be uplo
 12. [Week12](week12/):
 	* Dividing a C++ program in multiple files. .hpp and .cpp files.
 	* Static members. UML.
+13. [Week13](week13/):
+	* Class Templates. Function Templates. std::vector.
