@@ -40,3 +40,4 @@ The week-wise contents will be listed here. The codes for each week will be uplo
 	* Static members. UML.
 13. [Week13](week13/):
 	* Class Templates. Function Templates. std::vector.
+	* std::vector. Iterators. Reverse & const iterators. Range-for loop.
