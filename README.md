@@ -41,3 +41,5 @@ The week-wise contents will be listed here. The codes for each week will be uplo
 13. [Week13](week13/):
 	* Class Templates. Function Templates. std::vector.
 	* std::vector. Iterators. Reverse & const iterators. Range-for loop.
+14. [Week14](week14/):
+	* Continers contd. std::list. std::map. auto keyword.
